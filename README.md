@@ -1,4 +1,2 @@
-# install Pscan
-apt update
-apt-get install python3
-apt-get install socket
+Psacon
+for scan open port in network
